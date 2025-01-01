@@ -1,0 +1,12 @@
+WinSpy  Windows reverse shell Backdoor Automatic
+
+Notice - Only Root & Kali Linux user install Kali Linux tool Termux 
+
+sudo apt-get install git
+apt-get install git
+git clone https://github.com/TunisianEagles/winspy.git
+cd winspy
+chmod +x setup.sh
+./setup.sh
+chmod +x winspy.sh
+./winspy.sh
